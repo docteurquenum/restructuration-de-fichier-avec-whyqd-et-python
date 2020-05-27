@@ -1,0 +1,2302 @@
+country_name,hdi_category,indicator_name,values
+Iceland,HIGH HUMAN DEVELOPMENT,rank,1
+Norway,HIGH HUMAN DEVELOPMENT,rank,2
+Australia,HIGH HUMAN DEVELOPMENT,rank,3
+Canada,HIGH HUMAN DEVELOPMENT,rank,4
+Ireland,HIGH HUMAN DEVELOPMENT,rank,5
+Sweden,HIGH HUMAN DEVELOPMENT,rank,6
+Switzerland,HIGH HUMAN DEVELOPMENT,rank,7
+Japan,HIGH HUMAN DEVELOPMENT,rank,8
+Netherlands,HIGH HUMAN DEVELOPMENT,rank,9
+France,HIGH HUMAN DEVELOPMENT,rank,10
+Finland,HIGH HUMAN DEVELOPMENT,rank,11
+United States,HIGH HUMAN DEVELOPMENT,rank,12
+Spain,HIGH HUMAN DEVELOPMENT,rank,13
+Denmark,HIGH HUMAN DEVELOPMENT,rank,14
+Austria,HIGH HUMAN DEVELOPMENT,rank,15
+United Kingdom,HIGH HUMAN DEVELOPMENT,rank,16
+Belgium,HIGH HUMAN DEVELOPMENT,rank,17
+Luxembourg,HIGH HUMAN DEVELOPMENT,rank,18
+New Zealand,HIGH HUMAN DEVELOPMENT,rank,19
+Italy,HIGH HUMAN DEVELOPMENT,rank,20
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,rank,21
+Germany,HIGH HUMAN DEVELOPMENT,rank,22
+Israel,HIGH HUMAN DEVELOPMENT,rank,23
+Greece,HIGH HUMAN DEVELOPMENT,rank,24
+Singapore,HIGH HUMAN DEVELOPMENT,rank,25
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,rank,26
+Slovenia,HIGH HUMAN DEVELOPMENT,rank,27
+Cyprus,HIGH HUMAN DEVELOPMENT,rank,28
+Portugal,HIGH HUMAN DEVELOPMENT,rank,29
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,rank,30
+Barbados,HIGH HUMAN DEVELOPMENT,rank,31
+Czech Republic,HIGH HUMAN DEVELOPMENT,rank,32
+Kuwait,HIGH HUMAN DEVELOPMENT,rank,33
+Malta,HIGH HUMAN DEVELOPMENT,rank,34
+Qatar,HIGH HUMAN DEVELOPMENT,rank,35
+Hungary,HIGH HUMAN DEVELOPMENT,rank,36
+Poland,HIGH HUMAN DEVELOPMENT,rank,37
+Argentina,HIGH HUMAN DEVELOPMENT,rank,38
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,rank,39
+Chile,HIGH HUMAN DEVELOPMENT,rank,40
+Bahrain,HIGH HUMAN DEVELOPMENT,rank,41
+Slovakia,HIGH HUMAN DEVELOPMENT,rank,42
+Lithuania,HIGH HUMAN DEVELOPMENT,rank,43
+Estonia,HIGH HUMAN DEVELOPMENT,rank,44
+Latvia,HIGH HUMAN DEVELOPMENT,rank,45
+Uruguay,HIGH HUMAN DEVELOPMENT,rank,46
+Croatia,HIGH HUMAN DEVELOPMENT,rank,47
+Costa Rica,HIGH HUMAN DEVELOPMENT,rank,48
+Bahamas,HIGH HUMAN DEVELOPMENT,rank,49
+Seychelles,HIGH HUMAN DEVELOPMENT,rank,50
+Cuba,HIGH HUMAN DEVELOPMENT,rank,51
+Mexico,HIGH HUMAN DEVELOPMENT,rank,52
+Bulgaria,HIGH HUMAN DEVELOPMENT,rank,53
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,rank,54
+Tonga,HIGH HUMAN DEVELOPMENT,rank,55
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,rank,56
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,rank,57
+Oman,HIGH HUMAN DEVELOPMENT,rank,58
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,rank,59
+Romania,HIGH HUMAN DEVELOPMENT,rank,60
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,rank,61
+Panama,HIGH HUMAN DEVELOPMENT,rank,62
+Malaysia,HIGH HUMAN DEVELOPMENT,rank,63
+Belarus,HIGH HUMAN DEVELOPMENT,rank,64
+Mauritius,HIGH HUMAN DEVELOPMENT,rank,65
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,rank,66
+Russian Federation,HIGH HUMAN DEVELOPMENT,rank,67
+Albania,HIGH HUMAN DEVELOPMENT,rank,68
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,rank,69
+Brazil,HIGH HUMAN DEVELOPMENT,rank,70
+Dominica,MEDIUM HUMAN DEVELOPMENT,rank,71
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,rank,72
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,rank,73
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,rank,74
+Colombia,MEDIUM HUMAN DEVELOPMENT,rank,75
+Ukraine,MEDIUM HUMAN DEVELOPMENT,rank,76
+Samoa,MEDIUM HUMAN DEVELOPMENT,rank,77
+Thailand,MEDIUM HUMAN DEVELOPMENT,rank,78
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,rank,79
+Belize,MEDIUM HUMAN DEVELOPMENT,rank,80
+China,MEDIUM HUMAN DEVELOPMENT,rank,81
+Grenada,MEDIUM HUMAN DEVELOPMENT,rank,82
+Armenia,MEDIUM HUMAN DEVELOPMENT,rank,83
+Turkey,MEDIUM HUMAN DEVELOPMENT,rank,84
+Suriname,MEDIUM HUMAN DEVELOPMENT,rank,85
+Jordan,MEDIUM HUMAN DEVELOPMENT,rank,86
+Peru,MEDIUM HUMAN DEVELOPMENT,rank,87
+Lebanon,MEDIUM HUMAN DEVELOPMENT,rank,88
+Ecuador,MEDIUM HUMAN DEVELOPMENT,rank,89
+Philippines,MEDIUM HUMAN DEVELOPMENT,rank,90
+Tunisia,MEDIUM HUMAN DEVELOPMENT,rank,91
+Fiji,MEDIUM HUMAN DEVELOPMENT,rank,92
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,rank,93
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,rank,94
+Paraguay,MEDIUM HUMAN DEVELOPMENT,rank,95
+Georgia,MEDIUM HUMAN DEVELOPMENT,rank,96
+Guyana,MEDIUM HUMAN DEVELOPMENT,rank,97
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,rank,98
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,rank,99
+Maldives,MEDIUM HUMAN DEVELOPMENT,rank,100
+Jamaica,MEDIUM HUMAN DEVELOPMENT,rank,101
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,rank,102
+El Salvador,MEDIUM HUMAN DEVELOPMENT,rank,103
+Algeria,MEDIUM HUMAN DEVELOPMENT,rank,104
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,rank,105
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,rank,106
+Indonesia,MEDIUM HUMAN DEVELOPMENT,rank,107
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,rank,108
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,rank,109
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,rank,110
+Moldova,MEDIUM HUMAN DEVELOPMENT,rank,111
+Egypt,MEDIUM HUMAN DEVELOPMENT,rank,112
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,rank,113
+Mongolia,MEDIUM HUMAN DEVELOPMENT,rank,114
+Honduras,MEDIUM HUMAN DEVELOPMENT,rank,115
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,rank,116
+Bolivia,MEDIUM HUMAN DEVELOPMENT,rank,117
+Guatemala,MEDIUM HUMAN DEVELOPMENT,rank,118
+Gabon,MEDIUM HUMAN DEVELOPMENT,rank,119
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,rank,120
+South Africa,MEDIUM HUMAN DEVELOPMENT,rank,121
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,rank,122
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,rank,123
+Botswana,MEDIUM HUMAN DEVELOPMENT,rank,124
+Namibia,MEDIUM HUMAN DEVELOPMENT,rank,125
+Morocco,MEDIUM HUMAN DEVELOPMENT,rank,126
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,rank,127
+India,MEDIUM HUMAN DEVELOPMENT,rank,128
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,rank,129
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,rank,130
+Cambodia,MEDIUM HUMAN DEVELOPMENT,rank,131
+Myanmar,MEDIUM HUMAN DEVELOPMENT,rank,132
+Bhutan,MEDIUM HUMAN DEVELOPMENT,rank,133
+Comoros,MEDIUM HUMAN DEVELOPMENT,rank,134
+Ghana,MEDIUM HUMAN DEVELOPMENT,rank,135
+Pakistan,MEDIUM HUMAN DEVELOPMENT,rank,136
+Mauritania,MEDIUM HUMAN DEVELOPMENT,rank,137
+Lesotho,MEDIUM HUMAN DEVELOPMENT,rank,138
+Congo,MEDIUM HUMAN DEVELOPMENT,rank,139
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,rank,140
+Swaziland,MEDIUM HUMAN DEVELOPMENT,rank,141
+Nepal,MEDIUM HUMAN DEVELOPMENT,rank,142
+Madagascar,MEDIUM HUMAN DEVELOPMENT,rank,143
+Cameroon,MEDIUM HUMAN DEVELOPMENT,rank,144
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,rank,145
+Haiti,MEDIUM HUMAN DEVELOPMENT,rank,146
+Sudan,MEDIUM HUMAN DEVELOPMENT,rank,147
+Kenya,MEDIUM HUMAN DEVELOPMENT,rank,148
+Djibouti,MEDIUM HUMAN DEVELOPMENT,rank,149
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,rank,150
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,rank,151
+Togo,MEDIUM HUMAN DEVELOPMENT,rank,152
+Yemen,MEDIUM HUMAN DEVELOPMENT,rank,153
+Uganda,MEDIUM HUMAN DEVELOPMENT,rank,154
+Gambia,MEDIUM HUMAN DEVELOPMENT,rank,155
+Senegal,LOW HUMAN DEVELOPMENT,rank,156
+Eritrea,LOW HUMAN DEVELOPMENT,rank,157
+Nigeria,LOW HUMAN DEVELOPMENT,rank,158
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,rank,159
+Guinea,LOW HUMAN DEVELOPMENT,rank,160
+Rwanda,LOW HUMAN DEVELOPMENT,rank,161
+Angola,LOW HUMAN DEVELOPMENT,rank,162
+Benin,LOW HUMAN DEVELOPMENT,rank,163
+Malawi,LOW HUMAN DEVELOPMENT,rank,164
+Zambia,,rank,165
+Côte d'Ivoire,,rank,166
+Burundi,,rank,167
+Congo (Democratic Republic of the),,rank,168
+Ethiopia,,rank,169
+Chad,,rank,170
+Central African Republic,,rank,171
+Mozambique,,rank,172
+Mali,,rank,173
+Niger,,rank,174
+Guinea-Bissau,,rank,175
+Burkina Faso,,rank,176
+Sierra Leone,,rank,177
+Iceland,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Norway,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Australia,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Canada,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Ireland,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Sweden,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Switzerland,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Japan,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Netherlands,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+France,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Finland,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+United States,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Spain,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Denmark,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Austria,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+United Kingdom,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Belgium,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Luxembourg,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+New Zealand,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Italy,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,98.0
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Germany,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Israel,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Greece,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,94.2
+Singapore,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,88.6
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Slovenia,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.6
+Cyprus,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,95.1
+Portugal,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,92.0
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,90.2
+Barbados,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Czech Republic,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Kuwait,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,91.0
+Malta,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,89.2
+Qatar,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,88.6
+Hungary,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Poland,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Argentina,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,97.2
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,87.8
+Chile,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,95.6
+Bahrain,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,83.6
+Slovakia,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Lithuania,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.6
+Estonia,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.8
+Latvia,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.7
+Uruguay,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,97.3
+Croatia,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,97.1
+Costa Rica,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,95.1
+Bahamas,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Seychelles,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,92.3
+Cuba,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.8
+Mexico,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,90.2
+Bulgaria,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,97.7
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Tonga,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.0
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,74.8
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Oman,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,73.5
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,97.8
+Romania,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,96.3
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,76.3
+Panama,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,91.2
+Malaysia,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,85.4
+Belarus,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.4
+Mauritius,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,80.5
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,94.4
+Russian Federation,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.2
+Albania,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,98.3
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,94.1
+Brazil,HIGH HUMAN DEVELOPMENT,Ad_lit_Fem_rate,88.8
+Dominica,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.3
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,92.7
+Colombia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,92.9
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.2
+Samoa,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,98.3
+Thailand,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,90.5
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,87.2
+Belize,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+China,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,86.5
+Grenada,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Armenia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.2
+Turkey,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,79.6
+Suriname,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,87.2
+Jordan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,87.0
+Peru,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,82.5
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,89.7
+Philippines,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,93.6
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,65.3
+Fiji,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,76.8
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,92.7
+Georgia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Guyana,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,98.2
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,89.1
+Maldives,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,96.4
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,85.9
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,75.5
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,79.2
+Algeria,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,60.1
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,86.9
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,88.0
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,86.8
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,73.6
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,98.3
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,76.6
+Moldova,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,98.6
+Egypt,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,59.4
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,97.5
+Honduras,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,80.2
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,98.1
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,80.7
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,63.3
+Gabon,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,79.7
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+South Africa,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,80.9
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,99.2
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,77.9
+Botswana,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,81.8
+Namibia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,83.5
+Morocco,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,39.6
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,80.5
+India,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,47.8
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,60.9
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,64.1
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,86.4
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Ghana,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,49.8
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,35.4
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,43.4
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,90.3
+Congo,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,79.0
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,40.8
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,78.3
+Nepal,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,34.9
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,65.3
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,59.8
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,50.9
+Haiti,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,51.8
+Kenya,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,70.2
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,86.2
+Togo,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,38.5
+Yemen,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,34.7
+Uganda,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,57.7
+Gambia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Senegal,LOW HUMAN DEVELOPMENT,Ad_lit_Fem_rate,29.2
+Eritrea,LOW HUMAN DEVELOPMENT,Ad_lit_Fem_rate,..
+Nigeria,LOW HUMAN DEVELOPMENT,Ad_lit_Fem_rate,60.1
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Ad_lit_Fem_rate,62.2
+Guinea,LOW HUMAN DEVELOPMENT,Ad_lit_Fem_rate,18.1
+Rwanda,LOW HUMAN DEVELOPMENT,Ad_lit_Fem_rate,59.8
+Angola,LOW HUMAN DEVELOPMENT,Ad_lit_Fem_rate,54.2
+Benin,LOW HUMAN DEVELOPMENT,Ad_lit_Fem_rate,23.3
+Malawi,LOW HUMAN DEVELOPMENT,Ad_lit_Fem_rate,54.0
+Zambia,,Ad_lit_Fem_rate,59.8
+Côte d'Ivoire,,Ad_lit_Fem_rate,38.6
+Burundi,,Ad_lit_Fem_rate,52.2
+Congo (Democratic Republic of the),,Ad_lit_Fem_rate,54.1
+Ethiopia,,Ad_lit_Fem_rate,22.8
+Chad,,Ad_lit_Fem_rate,12.8
+Central African Republic,,Ad_lit_Fem_rate,33.5
+Mozambique,,Ad_lit_Fem_rate,25.0
+Mali,,Ad_lit_Fem_rate,15.9
+Niger,,Ad_lit_Fem_rate,15.1
+Guinea-Bissau,,Ad_lit_Fem_rate,..
+Burkina Faso,,Ad_lit_Fem_rate,16.6
+Sierra Leone,,Ad_lit_Fem_rate,24.2
+Iceland,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Norway,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Australia,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Canada,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Ireland,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Sweden,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Switzerland,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Japan,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Netherlands,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+France,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Finland,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+United States,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Spain,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Denmark,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Austria,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+United Kingdom,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Belgium,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Luxembourg,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+New Zealand,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Italy,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Germany,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Israel,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Greece,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.96
+Singapore,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.92
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Slovenia,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Cyprus,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.96
+Portugal,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.96
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.95
+Barbados,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Czech Republic,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Kuwait,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.96
+Malta,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.03
+Qatar,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Hungary,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Poland,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Argentina,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Chile,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Bahrain,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.94
+Slovakia,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Lithuania,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Estonia,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Latvia,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Uruguay,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.01
+Croatia,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.98
+Costa Rica,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Bahamas,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Seychelles,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.01
+Cuba,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Mexico,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.97
+Bulgaria,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Tonga,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.81
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Oman,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.85
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Romania,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.98
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.87
+Panama,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Malaysia,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.93
+Belarus,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Mauritius,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.91
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.95
+Russian Federation,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Albania,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.96
+Brazil,HIGH HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Dominica,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Colombia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Samoa,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Thailand,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.95
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Belize,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+China,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.91
+Grenada,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Armenia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Turkey,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.84
+Suriname,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.95
+Jordan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.91
+Peru,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.88
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.97
+Philippines,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.02
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.78
+Fiji,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.87
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.98
+Georgia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Guyana,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.97
+Maldives,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.16
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.86
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.96
+Algeria,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.76
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.93
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.91
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.92
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.84
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Moldova,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Egypt,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.71
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Honduras,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.01
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.99
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.87
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.84
+Gabon,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.90
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+South Africa,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.96
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.00
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.85
+Botswana,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.02
+Namibia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.96
+Morocco,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.60
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.86
+India,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.65
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.79
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.76
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.92
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Ghana,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.75
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.55
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.73
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,1.23
+Congo,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.87
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.76
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.97
+Nepal,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.56
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.85
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.78
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.80
+Haiti,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.73
+Kenya,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.90
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.93
+Togo,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.56
+Yemen,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.47
+Uganda,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.75
+Gambia,MEDIUM HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Senegal,LOW HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.57
+Eritrea,LOW HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,..
+Nigeria,LOW HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.77
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.80
+Guinea,LOW HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.43
+Rwanda,LOW HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.84
+Angola,LOW HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.65
+Benin,LOW HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.49
+Malawi,LOW HUMAN DEVELOPMENT,Ad_lit_rat_femrate_malrate,0.72
+Zambia,,Ad_lit_rat_femrate_malrate,0.78
+Côte d'Ivoire,,Ad_lit_rat_femrate_malrate,0.63
+Burundi,,Ad_lit_rat_femrate_malrate,0.78
+Congo (Democratic Republic of the),,Ad_lit_rat_femrate_malrate,0.67
+Ethiopia,,Ad_lit_rat_femrate_malrate,0.46
+Chad,,Ad_lit_rat_femrate_malrate,0.31
+Central African Republic,,Ad_lit_rat_femrate_malrate,0.52
+Mozambique,,Ad_lit_rat_femrate_malrate,0.46
+Mali,,Ad_lit_rat_femrate_malrate,0.49
+Niger,,Ad_lit_rat_femrate_malrate,0.35
+Guinea-Bissau,,Ad_lit_rat_femrate_malrate,..
+Burkina Faso,,Ad_lit_rat_femrate_malrate,0.53
+Sierra Leone,,Ad_lit_rat_femrate_malrate,0.52
+Iceland,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Norway,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Australia,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Canada,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Ireland,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Sweden,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Switzerland,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Japan,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Netherlands,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+France,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Finland,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+United States,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Spain,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Denmark,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Austria,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+United Kingdom,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Belgium,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Luxembourg,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+New Zealand,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Italy,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Germany,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Israel,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Greece,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.0
+Singapore,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.6
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Slovenia,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.9
+Cyprus,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Portugal,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.6
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.9
+Barbados,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Czech Republic,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Kuwait,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Malta,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,97.8
+Qatar,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,97.5
+Hungary,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Poland,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Argentina,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.1
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,95.5
+Chile,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.2
+Bahrain,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,97.3
+Slovakia,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Lithuania,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.7
+Estonia,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Latvia,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Uruguay,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.0
+Croatia,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.7
+Costa Rica,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.0
+Bahamas,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Seychelles,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.4
+Cuba,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,100.0
+Mexico,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,97.6
+Bulgaria,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.1
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Tonga,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.4
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.5
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Oman,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.7
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.5
+Romania,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,97.8
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,94.7
+Panama,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,95.6
+Malaysia,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,97.3
+Belarus,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Mauritius,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,95.4
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Russian Federation,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Albania,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.5
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.5
+Brazil,HIGH HUMAN DEVELOPMENT,Yout_lit_Fem_rate,97.9
+Dominica,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.9
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.1
+Colombia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.4
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Samoa,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.4
+Thailand,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,97.8
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,95.4
+Belize,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+China,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.5
+Grenada,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Armenia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.9
+Turkey,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,93.3
+Suriname,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,94.1
+Jordan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.0
+Peru,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.3
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.5
+Philippines,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.6
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,92.2
+Fiji,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.7
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.1
+Georgia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Guyana,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.9
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.1
+Maldives,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.3
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.7
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,90.3
+Algeria,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,86.1
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,93.6
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.8
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.5
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,90.2
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,88.8
+Moldova,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.7
+Egypt,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,78.9
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,98.4
+Honduras,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,90.9
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.7
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.1
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,78.4
+Gabon,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,95.1
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+South Africa,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,94.3
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,99.8
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,94.9
+Botswana,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,95.6
+Namibia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,93.5
+Morocco,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,60.5
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,94.9
+India,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,67.7
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,74.7
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,78.9
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,93.4
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Ghana,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,65.5
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,53.1
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,55.5
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Congo,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,96.5
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,60.3
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,89.8
+Nepal,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,60.1
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,68.2
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,64.1
+Haiti,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,71.4
+Kenya,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,80.7
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,97.9
+Togo,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,63.6
+Yemen,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,58.9
+Uganda,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,71.2
+Gambia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Senegal,LOW HUMAN DEVELOPMENT,Yout_lit_Fem_rate,41.0
+Eritrea,LOW HUMAN DEVELOPMENT,Yout_lit_Fem_rate,..
+Nigeria,LOW HUMAN DEVELOPMENT,Yout_lit_Fem_rate,81.3
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Yout_lit_Fem_rate,76.2
+Guinea,LOW HUMAN DEVELOPMENT,Yout_lit_Fem_rate,33.7
+Rwanda,LOW HUMAN DEVELOPMENT,Yout_lit_Fem_rate,76.9
+Angola,LOW HUMAN DEVELOPMENT,Yout_lit_Fem_rate,63.2
+Benin,LOW HUMAN DEVELOPMENT,Yout_lit_Fem_rate,33.2
+Malawi,LOW HUMAN DEVELOPMENT,Yout_lit_Fem_rate,70.7
+Zambia,,Yout_lit_Fem_rate,66.2
+Côte d'Ivoire,,Yout_lit_Fem_rate,52.1
+Burundi,,Yout_lit_Fem_rate,70.4
+Congo (Democratic Republic of the),,Yout_lit_Fem_rate,63.1
+Ethiopia,,Yout_lit_Fem_rate,38.5
+Chad,,Yout_lit_Fem_rate,23.2
+Central African Republic,,Yout_lit_Fem_rate,46.9
+Mozambique,,Yout_lit_Fem_rate,36.6
+Mali,,Yout_lit_Fem_rate,16.9
+Niger,,Yout_lit_Fem_rate,23.2
+Guinea-Bissau,,Yout_lit_Fem_rate,..
+Burkina Faso,,Yout_lit_Fem_rate,26.5
+Sierra Leone,,Yout_lit_Fem_rate,37.4
+Iceland,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Norway,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Australia,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Canada,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Ireland,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Sweden,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Switzerland,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Japan,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Netherlands,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+France,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Finland,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+United States,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Spain,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Denmark,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Austria,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+United Kingdom,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Belgium,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Luxembourg,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+New Zealand,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Italy,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Germany,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Israel,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Greece,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Singapore,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Slovenia,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Cyprus,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Portugal,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Barbados,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Czech Republic,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Kuwait,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Malta,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.04
+Qatar,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.03
+Hungary,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Poland,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Argentina,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.98
+Chile,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Bahrain,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Slovakia,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Lithuania,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Estonia,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Latvia,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Uruguay,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.01
+Croatia,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Costa Rica,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.01
+Bahamas,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Seychelles,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.01
+Cuba,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Mexico,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Bulgaria,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Tonga,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.97
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Oman,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.99
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Romania,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.98
+Panama,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.99
+Malaysia,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Belarus,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Mauritius,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.02
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Russian Federation,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Albania,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.99
+Brazil,HIGH HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.02
+Dominica,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.02
+Colombia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.01
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Samoa,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Thailand,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.03
+Belize,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+China,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.99
+Grenada,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Armenia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Turkey,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.95
+Suriname,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.98
+Jordan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Peru,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.98
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Philippines,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.03
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.96
+Fiji,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.99
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Georgia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Guyana,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.01
+Maldives,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.01
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.04
+Algeria,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.92
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.99
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.95
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.06
+Moldova,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Egypt,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.88
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.01
+Honduras,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.05
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.98
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.91
+Gabon,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.98
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+South Africa,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.01
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.99
+Botswana,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.04
+Namibia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.03
+Morocco,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.75
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+India,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.80
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.90
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.90
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.98
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Ghana,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.86
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.69
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.82
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Congo,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.98
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.90
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.03
+Nepal,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.75
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.94
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.93
+Haiti,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.84
+Kenya,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.01
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,1.00
+Togo,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.76
+Yemen,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.65
+Uganda,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.86
+Gambia,MEDIUM HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Senegal,LOW HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.70
+Eritrea,LOW HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,..
+Nigeria,LOW HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.94
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.94
+Guinea,LOW HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.57
+Rwanda,LOW HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.98
+Angola,LOW HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.75
+Benin,LOW HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.56
+Malawi,LOW HUMAN DEVELOPMENT,Yout_lit_rat_femrate_malrate,0.86
+Zambia,,Yout_lit_rat_femrate_malrate,0.91
+Côte d'Ivoire,,Yout_lit_rat_femrate_malrate,0.74
+Burundi,,Yout_lit_rat_femrate_malrate,0.92
+Congo (Democratic Republic of the),,Yout_lit_rat_femrate_malrate,0.81
+Ethiopia,,Yout_lit_rat_femrate_malrate,0.62
+Chad,,Yout_lit_rat_femrate_malrate,0.42
+Central African Republic,,Yout_lit_rat_femrate_malrate,0.67
+Mozambique,,Yout_lit_rat_femrate_malrate,0.61
+Mali,,Yout_lit_rat_femrate_malrate,0.52
+Niger,,Yout_lit_rat_femrate_malrate,0.44
+Guinea-Bissau,,Yout_lit_rat_femrate_malrate,..
+Burkina Faso,,Yout_lit_rat_femrate_malrate,0.66
+Sierra Leone,,Yout_lit_rat_femrate_malrate,0.63
+Iceland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,97
+Norway,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Australia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,97
+Canada,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Ireland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Sweden,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Switzerland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,93
+Japan,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,100
+Netherlands,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+France,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,99
+Finland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+United States,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,93
+Spain,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,99
+Denmark,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Austria,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+United Kingdom,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,99
+Belgium,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,99
+Luxembourg,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,95
+New Zealand,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,99
+Italy,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,90
+Germany,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Israel,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Greece,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,99
+Singapore,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,99
+Slovenia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Cyprus,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,99
+Portugal,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,94
+Barbados,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Czech Republic,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,93
+Kuwait,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,86
+Malta,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,84
+Qatar,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Hungary,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,88
+Poland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,97
+Argentina,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,70
+Chile,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,89
+Bahrain,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,97
+Slovakia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Lithuania,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,89
+Estonia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,95
+Latvia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,89
+Uruguay,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,93
+Croatia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,87
+Costa Rica,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Bahamas,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Seychelles,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,100
+Cuba,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Mexico,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Bulgaria,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,93
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Tonga,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,93
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Oman,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,76
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,90
+Romania,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,79
+Panama,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Malaysia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,95
+Belarus,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,88
+Mauritius,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Russian Federation,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,93
+Albania,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,94
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Brazil,HIGH HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,95
+Dominica,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,85
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,90
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Colombia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,87
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,83
+Samoa,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,91
+Thailand,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,86
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,88
+Belize,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+China,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Grenada,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,83
+Armenia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,81
+Turkey,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,87
+Suriname,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Jordan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,90
+Peru,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,97
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Philippines,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,95
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,97
+Fiji,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,88
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,100
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,88
+Georgia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Guyana,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,84
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Maldives,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,79
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,90
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,89
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,93
+Algeria,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,95
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,80
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,94
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,86
+Moldova,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,86
+Egypt,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,91
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,85
+Honduras,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,86
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Gabon,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,93
+South Africa,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,87
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Botswana,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,84
+Namibia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,74
+Morocco,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,83
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+India,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,85
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,81
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,98
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,91
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Ghana,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,65
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,59
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,72
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,89
+Congo,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,48
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,96
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,80
+Nepal,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,74
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,92
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Haiti,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Kenya,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,79
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,30
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,82
+Togo,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,72
+Yemen,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,63
+Uganda,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Gambia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,77
+Senegal,LOW HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,67
+Eritrea,LOW HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,43
+Nigeria,LOW HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,64
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,91
+Guinea,LOW HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,61
+Rwanda,LOW HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,75
+Angola,LOW HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,..
+Benin,LOW HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,70
+Malawi,LOW HUMAN DEVELOPMENT,Net_prim_enr_fem_rate,97
+Zambia,,Net_prim_enr_fem_rate,89
+Côte d'Ivoire,,Net_prim_enr_fem_rate,50
+Burundi,,Net_prim_enr_fem_rate,58
+Congo (Democratic Republic of the),,Net_prim_enr_fem_rate,..
+Ethiopia,,Net_prim_enr_fem_rate,59
+Chad,,Net_prim_enr_fem_rate,..
+Central African Republic,,Net_prim_enr_fem_rate,..
+Mozambique,,Net_prim_enr_fem_rate,74
+Mali,,Net_prim_enr_fem_rate,45
+Niger,,Net_prim_enr_fem_rate,33
+Guinea-Bissau,,Net_prim_enr_fem_rate,37
+Burkina Faso,,Net_prim_enr_fem_rate,40
+Sierra Leone,,Net_prim_enr_fem_rate,..
+Iceland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.97
+Norway,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Australia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Canada,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Ireland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Sweden,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Switzerland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Japan,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Netherlands,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+France,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Finland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+United States,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Spain,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Denmark,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Austria,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.02
+United Kingdom,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Belgium,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Luxembourg,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+New Zealand,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Italy,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.94
+Germany,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Israel,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Greece,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Singapore,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Slovenia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Cyprus,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Portugal,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Barbados,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Czech Republic,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.02
+Kuwait,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Malta,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.95
+Qatar,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Hungary,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Poland,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Argentina,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.97
+Chile,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Bahrain,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Slovakia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Lithuania,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Estonia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Latvia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.03
+Uruguay,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Croatia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Costa Rica,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Bahamas,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.03
+Seychelles,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Cuba,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Mexico,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Bulgaria,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.06
+Tonga,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.96
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Oman,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Romania,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.03
+Panama,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Malaysia,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Belarus,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.97
+Mauritius,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.02
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Russian Federation,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Albania,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Brazil,HIGH HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Dominica,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.02
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Colombia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Samoa,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Thailand,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.96
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Belize,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.03
+China,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Grenada,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Armenia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.05
+Turkey,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.95
+Suriname,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.04
+Jordan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.02
+Peru,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Philippines,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.02
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Fiji,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.95
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.10
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Georgia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Guyana,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Maldives,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Algeria,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.96
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Moldova,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Egypt,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.95
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.03
+Honduras,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.02
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.95
+Gabon,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+South Africa,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.96
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Botswana,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Namibia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.07
+Morocco,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.94
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+India,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.93
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.95
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.02
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Ghana,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.76
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.06
+Congo,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.20
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.03
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Nepal,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.87
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.00
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Haiti,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Kenya,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.81
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.01
+Togo,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.86
+Yemen,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.73
+Uganda,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Gambia,MEDIUM HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.99
+Senegal,LOW HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.97
+Eritrea,LOW HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.86
+Nigeria,LOW HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.88
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.98
+Guinea,LOW HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.87
+Rwanda,LOW HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.04
+Angola,LOW HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,..
+Benin,LOW HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,0.81
+Malawi,LOW HUMAN DEVELOPMENT,Net_prim_enr_rat_femrate_malrate,1.05
+Zambia,,Net_prim_enr_rat_femrate_malrate,1.00
+Côte d'Ivoire,,Net_prim_enr_rat_femrate_malrate,0.80
+Burundi,,Net_prim_enr_rat_femrate_malrate,0.91
+Congo (Democratic Republic of the),,Net_prim_enr_rat_femrate_malrate,..
+Ethiopia,,Net_prim_enr_rat_femrate_malrate,0.92
+Chad,,Net_prim_enr_rat_femrate_malrate,..
+Central African Republic,,Net_prim_enr_rat_femrate_malrate,..
+Mozambique,,Net_prim_enr_rat_femrate_malrate,0.91
+Mali,,Net_prim_enr_rat_femrate_malrate,0.81
+Niger,,Net_prim_enr_rat_femrate_malrate,0.73
+Guinea-Bissau,,Net_prim_enr_rat_femrate_malrate,0.71
+Burkina Faso,,Net_prim_enr_rat_femrate_malrate,0.79
+Sierra Leone,,Net_prim_enr_rat_femrate_malrate,..
+Iceland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,98
+Norway,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,98
+Australia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,104
+Canada,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+Ireland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,106
+Sweden,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,97
+Switzerland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Japan,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,100
+Netherlands,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,106
+France,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,110
+Finland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+United States,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+Spain,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,105
+Denmark,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+Austria,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,106
+United Kingdom,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,107
+Belgium,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,103
+Luxembourg,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,100
+New Zealand,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,102
+Italy,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,102
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Germany,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Israel,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,110
+Greece,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Singapore,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,..
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,104
+Slovenia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,100
+Cyprus,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Portugal,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,112
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,107
+Barbados,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,108
+Czech Republic,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,100
+Kuwait,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,97
+Malta,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,95
+Qatar,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,106
+Hungary,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,97
+Poland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,98
+Argentina,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,112
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,82
+Chile,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Bahrain,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,104
+Slovakia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,98
+Lithuania,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,95
+Estonia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+Latvia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,90
+Uruguay,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,108
+Croatia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,94
+Costa Rica,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,109
+Bahamas,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Seychelles,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,116
+Cuba,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+Mexico,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,108
+Bulgaria,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,102
+Tonga,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,112
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,106
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,..
+Oman,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,85
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+Romania,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,106
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,91
+Panama,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,109
+Malaysia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,96
+Belarus,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,100
+Mauritius,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,102
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,..
+Russian Federation,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,128
+Albania,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,105
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,98
+Brazil,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,135
+Dominica,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,92
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,107
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,108
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,104
+Colombia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,111
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,107
+Samoa,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,100
+Thailand,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,94
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,110
+Belize,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,125
+China,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,112
+Grenada,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,91
+Armenia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,96
+Turkey,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,91
+Suriname,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,120
+Jordan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,96
+Peru,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,112
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,105
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,117
+Philippines,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,112
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,108
+Fiji,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,105
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,105
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,122
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,103
+Georgia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,94
+Guyana,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,131
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,95
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Maldives,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,93
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,94
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,105
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,111
+Algeria,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,107
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,91
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,88
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,115
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,121
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,..
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,110
+Moldova,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,92
+Egypt,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,97
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,94
+Honduras,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,113
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,97
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,113
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,109
+Gabon,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,129
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,116
+South Africa,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,102
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,132
+Botswana,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,105
+Namibia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,100
+Morocco,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,99
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,111
+India,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,116
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,94
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,108
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,129
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,101
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,80
+Ghana,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,87
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,75
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,94
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,131
+Congo,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,84
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,111
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,104
+Nepal,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,108
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,136
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,107
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,70
+Haiti,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,56
+Kenya,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,110
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,36
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,145
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,95
+Togo,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,92
+Yemen,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,75
+Uganda,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,119
+Gambia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,84
+Senegal,LOW HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,77
+Eritrea,LOW HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,57
+Nigeria,LOW HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,95
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,104
+Guinea,LOW HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,74
+Rwanda,LOW HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,121
+Angola,LOW HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,..
+Benin,LOW HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,85
+Malawi,LOW HUMAN DEVELOPMENT,Gross_prim_enr_fem_rat,124
+Zambia,,Gross_prim_enr_fem_rat,108
+Côte d'Ivoire,,Gross_prim_enr_fem_rat,63
+Burundi,,Gross_prim_enr_fem_rat,78
+Congo (Democratic Republic of the),,Gross_prim_enr_fem_rat,54
+Ethiopia,,Gross_prim_enr_fem_rat,86
+Chad,,Gross_prim_enr_fem_rat,62
+Central African Republic,,Gross_prim_enr_fem_rat,44
+Mozambique,,Gross_prim_enr_fem_rat,94
+Mali,,Gross_prim_enr_fem_rat,59
+Niger,,Gross_prim_enr_fem_rat,39
+Guinea-Bissau,,Gross_prim_enr_fem_rat,56
+Burkina Faso,,Gross_prim_enr_fem_rat,51
+Sierra Leone,,Gross_prim_enr_fem_rat,65
+Iceland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Norway,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Australia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Canada,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Ireland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Sweden,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Switzerland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Japan,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Netherlands,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+France,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Finland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+United States,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Spain,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Denmark,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Austria,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+United Kingdom,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Belgium,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Luxembourg,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+New Zealand,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Italy,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.94
+Germany,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Israel,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.01
+Greece,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Singapore,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,..
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Slovenia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Cyprus,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Portugal,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Barbados,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Czech Republic,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Kuwait,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Malta,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.94
+Qatar,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Hungary,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Poland,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Argentina,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Chile,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Bahrain,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Slovakia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Lithuania,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Estonia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Latvia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Uruguay,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Croatia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Costa Rica,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Bahamas,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Seychelles,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.01
+Cuba,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.95
+Mexico,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Bulgaria,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.06
+Tonga,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.95
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,..
+Oman,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Romania,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Panama,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Malaysia,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Belarus,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Mauritius,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,..
+Russian Federation,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Albania,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Brazil,HIGH HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.93
+Dominica,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Colombia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Samoa,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Thailand,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.95
+Belize,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+China,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Grenada,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Armenia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.04
+Turkey,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.95
+Suriname,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Jordan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.01
+Peru,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Philippines,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Fiji,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.90
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.22
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Georgia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.01
+Guyana,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Maldives,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.95
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Algeria,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.93
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.94
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.95
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,..
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Moldova,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Egypt,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.94
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.02
+Honduras,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.92
+Gabon,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.99
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+South Africa,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Botswana,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Namibia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.01
+Morocco,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.89
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.95
+India,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.94
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.95
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.88
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.92
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.02
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.88
+Ghana,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.76
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.01
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Congo,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.92
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.03
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.93
+Nepal,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.91
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.85
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.88
+Haiti,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.87
+Kenya,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.82
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.92
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.98
+Togo,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.85
+Yemen,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.74
+Uganda,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.00
+Gambia,MEDIUM HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.06
+Senegal,LOW HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.97
+Eritrea,LOW HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.81
+Nigeria,LOW HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.86
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.96
+Guinea,LOW HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.84
+Rwanda,LOW HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.02
+Angola,LOW HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,..
+Benin,LOW HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,0.80
+Malawi,LOW HUMAN DEVELOPMENT,Gross_prim_enr_rat_femrate_malrate,1.02
+Zambia,,Gross_prim_enr_rat_femrate_malrate,0.95
+Côte d'Ivoire,,Gross_prim_enr_rat_femrate_malrate,0.79
+Burundi,,Gross_prim_enr_rat_femrate_malrate,0.86
+Congo (Democratic Republic of the),,Gross_prim_enr_rat_femrate_malrate,0.78
+Ethiopia,,Gross_prim_enr_rat_femrate_malrate,0.86
+Chad,,Gross_prim_enr_rat_femrate_malrate,0.67
+Central African Republic,,Gross_prim_enr_rat_femrate_malrate,0.66
+Mozambique,,Gross_prim_enr_rat_femrate_malrate,0.85
+Mali,,Gross_prim_enr_rat_femrate_malrate,0.80
+Niger,,Gross_prim_enr_rat_femrate_malrate,0.73
+Guinea-Bissau,,Gross_prim_enr_rat_femrate_malrate,0.67
+Burkina Faso,,Gross_prim_enr_rat_femrate_malrate,0.80
+Sierra Leone,,Gross_prim_enr_rat_femrate_malrate,0.71
+Iceland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,109
+Norway,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,114
+Australia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,144
+Canada,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,116
+Ireland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,118
+Sweden,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,103
+Switzerland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,91
+Japan,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,102
+Netherlands,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,117
+France,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,116
+Finland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,113
+United States,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,95
+Spain,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,127
+Denmark,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,126
+Austria,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,100
+United Kingdom,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,107
+Belgium,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,108
+Luxembourg,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,97
+New Zealand,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,127
+Italy,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,99
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,85
+Germany,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,99
+Israel,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,92
+Greece,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,101
+Singapore,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,..
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,93
+Slovenia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,99
+Cyprus,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,97
+Portugal,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,104
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,98
+Barbados,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,113
+Czech Republic,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,97
+Kuwait,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,98
+Malta,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,101
+Qatar,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,99
+Hungary,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,96
+Poland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,99
+Argentina,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,89
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,66
+Chile,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,91
+Bahrain,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,102
+Slovakia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,95
+Lithuania,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,96
+Estonia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,101
+Latvia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,98
+Uruguay,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,113
+Croatia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,89
+Costa Rica,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,82
+Bahamas,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,91
+Seychelles,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,105
+Cuba,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,94
+Mexico,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,83
+Bulgaria,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,101
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,93
+Tonga,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,102
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,107
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,..
+Oman,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,85
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,82
+Romania,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,86
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,86
+Panama,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,73
+Malaysia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,81
+Belarus,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,96
+Mauritius,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,88
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,..
+Russian Federation,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,91
+Albania,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,77
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,83
+Brazil,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_femrat,111
+Dominica,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,106
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,85
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,97
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,79
+Colombia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,82
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,85
+Samoa,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,85
+Thailand,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,72
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,78
+Belize,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,85
+China,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,74
+Grenada,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,102
+Armenia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,89
+Turkey,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,68
+Suriname,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,100
+Jordan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,88
+Peru,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,92
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,93
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,61
+Philippines,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,90
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,88
+Fiji,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,91
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,83
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,78
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,64
+Georgia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,83
+Guyana,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,103
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,81
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,83
+Maldives,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,78
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,89
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,70
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,64
+Algeria,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,86
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,75
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,102
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,63
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,65
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,..
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,71
+Moldova,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,83
+Egypt,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,82
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,93
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,98
+Honduras,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,73
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,87
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,87
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,49
+Gabon,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,42
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,38
+South Africa,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,97
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,74
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,46
+Botswana,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,75
+Namibia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,60
+Morocco,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,46
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,22
+India,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,50
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,27
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,40
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,24
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,40
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,30
+Ghana,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,40
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,23
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,19
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,43
+Congo,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,35
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,48
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,44
+Nepal,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,42
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,..
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,39
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,23
+Haiti,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,33
+Kenya,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,48
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,19
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,52
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,35
+Togo,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,27
+Yemen,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,31
+Uganda,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,17
+Gambia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_femrat,42
+Senegal,LOW HUMAN DEVELOPMENT,Gross_sec_enr_femrat,18
+Eritrea,LOW HUMAN DEVELOPMENT,Gross_sec_enr_femrat,23
+Nigeria,LOW HUMAN DEVELOPMENT,Gross_sec_enr_femrat,31
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Gross_sec_enr_femrat,..
+Guinea,LOW HUMAN DEVELOPMENT,Gross_sec_enr_femrat,21
+Rwanda,LOW HUMAN DEVELOPMENT,Gross_sec_enr_femrat,13
+Angola,LOW HUMAN DEVELOPMENT,Gross_sec_enr_femrat,15
+Benin,LOW HUMAN DEVELOPMENT,Gross_sec_enr_femrat,23
+Malawi,LOW HUMAN DEVELOPMENT,Gross_sec_enr_femrat,25
+Zambia,,Gross_sec_enr_femrat,25
+Côte d'Ivoire,,Gross_sec_enr_femrat,18
+Burundi,,Gross_sec_enr_femrat,11
+Congo (Democratic Republic of the),,Gross_sec_enr_femrat,16
+Ethiopia,,Gross_sec_enr_femrat,24
+Chad,,Gross_sec_enr_femrat,8
+Central African Republic,,Gross_sec_enr_femrat,..
+Mozambique,,Gross_sec_enr_femrat,11
+Mali,,Gross_sec_enr_femrat,18
+Niger,,Gross_sec_enr_femrat,7
+Guinea-Bissau,,Gross_sec_enr_femrat,13
+Burkina Faso,,Gross_sec_enr_femrat,12
+Sierra Leone,,Gross_sec_enr_femrat,22
+Iceland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Norway,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Australia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.95
+Canada,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.98
+Ireland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.09
+Sweden,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Switzerland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.93
+Japan,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Netherlands,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.98
+France,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Finland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.05
+United States,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.02
+Spain,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.05
+Denmark,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Austria,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.95
+United Kingdom,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Belgium,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.97
+Luxembourg,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.06
+New Zealand,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.07
+Italy,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.96
+Germany,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.98
+Israel,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+Greece,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.98
+Singapore,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,..
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Slovenia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Cyprus,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.02
+Portugal,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.10
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.04
+Barbados,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Czech Republic,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.02
+Kuwait,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.06
+Malta,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Qatar,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.98
+Hungary,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+Poland,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+Argentina,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.07
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.05
+Chile,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Bahrain,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.06
+Slovakia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Lithuania,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+Estonia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Latvia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Uruguay,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.16
+Croatia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.02
+Costa Rica,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.06
+Bahamas,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Seychelles,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+Cuba,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Mexico,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.07
+Bulgaria,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.95
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.98
+Tonga,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.08
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.19
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,..
+Oman,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.96
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.04
+Romania,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.96
+Panama,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.07
+Malaysia,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.14
+Belarus,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Mauritius,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,..
+Russian Federation,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+Albania,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.96
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.98
+Brazil,HIGH HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.10
+Dominica,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.97
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.21
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.97
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.13
+Colombia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.11
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.92
+Samoa,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.12
+Thailand,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.05
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.21
+Belize,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.02
+China,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Grenada,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Armenia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Turkey,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.82
+Suriname,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.33
+Jordan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.02
+Peru,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.10
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Philippines,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.12
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.09
+Fiji,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.07
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.24
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.94
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.02
+Georgia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Guyana,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.02
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.96
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Maldives,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.14
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.07
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Algeria,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.07
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.97
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.07
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.94
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,..
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.15
+Moldova,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Egypt,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.92
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.97
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.13
+Honduras,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.24
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.01
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.97
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.91
+Gabon,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.86
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.86
+South Africa,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.07
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.83
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.08
+Botswana,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.05
+Namibia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.15
+Morocco,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.85
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.57
+India,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.80
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.83
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.76
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.69
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.99
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.76
+Ghana,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.85
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.74
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.85
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.26
+Congo,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.84
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.03
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.96
+Nepal,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.86
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,..
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.80
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.79
+Haiti,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.94
+Kenya,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.95
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.66
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,1.00
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.91
+Togo,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.51
+Yemen,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.49
+Uganda,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.81
+Gambia,MEDIUM HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.82
+Senegal,LOW HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.75
+Eritrea,LOW HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.59
+Nigeria,LOW HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.84
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,..
+Guinea,LOW HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.53
+Rwanda,LOW HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.89
+Angola,LOW HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.78
+Benin,LOW HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.57
+Malawi,LOW HUMAN DEVELOPMENT,Gross_sec_enr_rat_femrate_malrate,0.81
+Zambia,,Gross_sec_enr_rat_femrate_malrate,0.82
+Côte d'Ivoire,,Gross_sec_enr_rat_femrate_malrate,0.55
+Burundi,,Gross_sec_enr_rat_femrate_malrate,0.74
+Congo (Democratic Republic of the),,Gross_sec_enr_rat_femrate_malrate,0.58
+Ethiopia,,Gross_sec_enr_rat_femrate_malrate,0.65
+Chad,,Gross_sec_enr_rat_femrate_malrate,0.33
+Central African Republic,,Gross_sec_enr_rat_femrate_malrate,..
+Mozambique,,Gross_sec_enr_rat_femrate_malrate,0.69
+Mali,,Gross_sec_enr_rat_femrate_malrate,0.62
+Niger,,Gross_sec_enr_rat_femrate_malrate,0.68
+Guinea-Bissau,,Gross_sec_enr_rat_femrate_malrate,0.54
+Burkina Faso,,Gross_sec_enr_rat_femrate_malrate,0.70
+Sierra Leone,,Gross_sec_enr_rat_femrate_malrate,0.71
+Iceland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,93
+Norway,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,97
+Australia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,80
+Canada,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,72
+Ireland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,67
+Sweden,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,100
+Switzerland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,43
+Japan,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,52
+Netherlands,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,63
+France,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,64
+Finland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,101
+United States,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,97
+Spain,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,74
+Denmark,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,94
+Austria,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,55
+United Kingdom,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,70
+Belgium,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,70
+Luxembourg,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,13
+New Zealand,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,99
+Italy,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,76
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,31
+Germany,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Israel,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,66
+Greece,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,95
+Singapore,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,69
+Slovenia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,96
+Cyprus,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,35
+Portugal,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,64
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,20
+Barbados,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,54
+Czech Republic,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,52
+Kuwait,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,29
+Malta,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,37
+Qatar,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,33
+Hungary,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,78
+Poland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,74
+Argentina,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,76
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,39
+Chile,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,47
+Bahrain,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,50
+Slovakia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,46
+Lithuania,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,93
+Estonia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,82
+Latvia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,96
+Uruguay,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,55
+Croatia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,42
+Costa Rica,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,28
+Bahamas,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Seychelles,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Cuba,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,78
+Mexico,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,24
+Bulgaria,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,47
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Tonga,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,8
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,59
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Oman,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,19
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,14
+Romania,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,50
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,34
+Panama,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,55
+Malaysia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,36
+Belarus,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,72
+Mauritius,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,19
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Russian Federation,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,82
+Albania,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,23
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,35
+Brazil,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,27
+Dominica,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,20
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,62
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,41
+Colombia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,31
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,75
+Samoa,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,7
+Thailand,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,44
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,41
+Belize,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,4
+China,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,20
+Grenada,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Armenia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,31
+Turkey,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,26
+Suriname,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,15
+Jordan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,40
+Peru,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,34
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,54
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Philippines,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,31
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,35
+Fiji,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,17
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,25
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,28
+Georgia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,47
+Guyana,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,13
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,14
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Maldives,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,(.)
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,26
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,7
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,21
+Algeria,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,24
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,13
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,39
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,15
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,19
+Moldova,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,41
+Egypt,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,14
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,54
+Honduras,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,20
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,46
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,8
+Gabon,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,4
+South Africa,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,17
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,9
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Botswana,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,5
+Namibia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,7
+Morocco,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,10
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,2
+India,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,9
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,7
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,2
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,2
+Ghana,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,4
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,4
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,2
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,4
+Congo,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,1
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,4
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,5
+Nepal,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,3
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,2
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,5
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Haiti,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Kenya,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,2
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,2
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,12
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,3
+Togo,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,1
+Yemen,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,5
+Uganda,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,3
+Gambia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,(.)
+Senegal,LOW HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,..
+Eritrea,LOW HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,(.)
+Nigeria,LOW HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,7
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,1
+Guinea,LOW HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,1
+Rwanda,LOW HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,2
+Angola,LOW HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,1
+Benin,LOW HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,1
+Malawi,LOW HUMAN DEVELOPMENT,Gross_tert_enr_female_rat,(.)
+Zambia,,Gross_tert_enr_female_rat,..
+Côte d'Ivoire,,Gross_tert_enr_female_rat,..
+Burundi,,Gross_tert_enr_female_rat,1
+Congo (Democratic Republic of the),,Gross_tert_enr_female_rat,..
+Ethiopia,,Gross_tert_enr_female_rat,1
+Chad,,Gross_tert_enr_female_rat,(.)
+Central African Republic,,Gross_tert_enr_female_rat,..
+Mozambique,,Gross_tert_enr_female_rat,1
+Mali,,Gross_tert_enr_female_rat,2
+Niger,,Gross_tert_enr_female_rat,1
+Guinea-Bissau,,Gross_tert_enr_female_rat,(.)
+Burkina Faso,,Gross_tert_enr_female_rat,1
+Sierra Leone,,Gross_tert_enr_female_rat,1
+Iceland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.85
+Norway,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.54
+Australia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.25
+Canada,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.36
+Ireland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.27
+Sweden,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.55
+Switzerland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.84
+Japan,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.89
+Netherlands,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.08
+France,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.29
+Finland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.21
+United States,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.40
+Spain,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.22
+Denmark,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.39
+Austria,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.20
+United Kingdom,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.39
+Belgium,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.24
+Luxembourg,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.18
+New Zealand,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.50
+Italy,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.36
+"Hong Kong, China (SAR)",HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.95
+Germany,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Israel,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.34
+Greece,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.14
+Singapore,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Korea (Republic of),HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.62
+Slovenia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.43
+Cyprus,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.13
+Portugal,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.30
+Brunei Darussalam,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.02
+Barbados,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.47
+Czech Republic,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.16
+Kuwait,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.66
+Malta,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.36
+Qatar,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,3.45
+Hungary,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.46
+Poland,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.41
+Argentina,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.41
+United Arab Emirates,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,3.24
+Chile,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.96
+Bahrain,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.23
+Slovakia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.29
+Lithuania,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.57
+Estonia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.66
+Latvia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.79
+Uruguay,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.03
+Croatia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.19
+Costa Rica,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.26
+Bahamas,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Seychelles,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Cuba,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.72
+Mexico,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.99
+Bulgaria,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.14
+Saint Kitts and Nevis,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Tonga,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.67
+Libyan Arab Jamahiriya,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.09
+Antigua and Barbuda,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Oman,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.09
+Trinidad and Tobago,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.27
+Romania,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.26
+Saudi Arabia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.47
+Panama,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.63
+Malaysia,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.31
+Belarus,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.37
+Mauritius,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.26
+Bosnia and Herzegovina,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Russian Federation,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.36
+Albania,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.57
+Macedonia (TFYR),HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.38
+Brazil,HIGH HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.32
+Dominica,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Saint Lucia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.80
+Kazakhstan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.42
+Venezuela (Bolivarian Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.08
+Colombia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.09
+Ukraine,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.20
+Samoa,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.93
+Thailand,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.06
+Dominican Republic,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.64
+Belize,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.43
+China,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.95
+Grenada,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Armenia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.22
+Turkey,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.74
+Suriname,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.62
+Jordan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.06
+Peru,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.03
+Lebanon,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.15
+Ecuador,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Philippines,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.23
+Tunisia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.40
+Fiji,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.20
+Saint Vincent and the Grenadines,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Iran (Islamic Republic of),MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.09
+Paraguay,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.34
+Georgia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.04
+Guyana,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.13
+Azerbaijan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.90
+Sri Lanka,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Maldives,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.37
+Jamaica,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,2.29
+Cape Verde,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.04
+El Salvador,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.23
+Algeria,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.37
+Viet Nam,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.71
+Occupied Palestinian Territories,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.04
+Indonesia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.79
+Syrian Arab Republic,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Turkmenistan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Nicaragua,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.11
+Moldova,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.48
+Egypt,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Uzbekistan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.80
+Mongolia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.62
+Honduras,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.46
+Kyrgyzstan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.25
+Bolivia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Guatemala,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.72
+Gabon,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Vanuatu,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.58
+South Africa,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.22
+Tajikistan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.35
+Sao Tome and Principe,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Botswana,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.00
+Namibia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.15
+Morocco,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.85
+Equatorial Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.43
+India,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.70
+Solomon Islands,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Lao People's Democratic Republic,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.72
+Cambodia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.46
+Myanmar,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Bhutan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Comoros,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.77
+Ghana,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.56
+Pakistan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.88
+Mauritania,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.33
+Lesotho,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.27
+Congo,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.19
+Bangladesh,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.53
+Swaziland,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.06
+Nepal,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.40
+Madagascar,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.89
+Cameroon,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.66
+Papua New Guinea,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Haiti,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Sudan,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Kenya,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.60
+Djibouti,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.73
+Timor-Leste,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,1.48
+Zimbabwe,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.63
+Togo,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.20
+Yemen,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.37
+Uganda,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.62
+Gambia,MEDIUM HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.23
+Senegal,LOW HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,..
+Eritrea,LOW HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.15
+Nigeria,LOW HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.55
+Tanzania (United Republic of),LOW HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.48
+Guinea,LOW HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.24
+Rwanda,LOW HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.62
+Angola,LOW HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.66
+Benin,LOW HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.25
+Malawi,LOW HUMAN DEVELOPMENT,Gross_tert_enr_rat_femrate_malrate,0.54
+Zambia,,Gross_tert_enr_rat_femrate_malrate,..
+Côte d'Ivoire,,Gross_tert_enr_rat_femrate_malrate,..
+Burundi,,Gross_tert_enr_rat_femrate_malrate,0.38
+Congo (Democratic Republic of the),,Gross_tert_enr_rat_femrate_malrate,..
+Ethiopia,,Gross_tert_enr_rat_femrate_malrate,0.32
+Chad,,Gross_tert_enr_rat_femrate_malrate,0.14
+Central African Republic,,Gross_tert_enr_rat_femrate_malrate,..
+Mozambique,,Gross_tert_enr_rat_femrate_malrate,0.49
+Mali,,Gross_tert_enr_rat_femrate_malrate,0.47
+Niger,,Gross_tert_enr_rat_femrate_malrate,0.45
+Guinea-Bissau,,Gross_tert_enr_rat_femrate_malrate,0.18
+Burkina Faso,,Gross_tert_enr_rat_femrate_malrate,0.45
+Sierra Leone,,Gross_tert_enr_rat_femrate_malrate,0.40

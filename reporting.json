@@ -1,0 +1,734 @@
+{
+    "created": "2020-05-27",
+    "description": " schema de l'exercice ",
+    "fields": [
+        {
+            "constraints": {
+                "required": true
+            },
+            "description": "Official country names",
+            "name": "country_name",
+            "structure": [
+                {
+                    "description": "Rename an existing field to conform to a schema name. Only valid where a single field is provided.",
+                    "name": "RENAME",
+                    "structure": [
+                        "field"
+                    ],
+                    "type": "action"
+                },
+                {
+                    "name": "Country",
+                    "type": "string"
+                }
+            ],
+            "title": "Country Name",
+            "type": "string"
+        },
+        {
+            "constraints": {
+                "required": true
+            },
+            "description": "Human Development Index Category derived from the HDI Rank",
+            "name": "hdi_category",
+            "structure": [
+                {
+                    "description": "Rename an existing field to conform to a schema name. Only valid where a single field is provided.",
+                    "name": "RENAME",
+                    "structure": [
+                        "field"
+                    ],
+                    "type": "action"
+                },
+                {
+                    "name": "HDI category",
+                    "type": "string"
+                }
+            ],
+            "title": "HDI Category",
+            "type": "string"
+        },
+        {
+            "description": "Indicator described in the data series",
+            "name": "indicator_name",
+            "structure": [
+                {
+                    "description": "Rename an existing field to conform to a schema name. Only valid where a single field is provided.",
+                    "name": "RENAME",
+                    "structure": [
+                        "field"
+                    ],
+                    "type": "action"
+                },
+                {
+                    "name": "Indicator Name",
+                    "type": "string"
+                }
+            ],
+            "title": "Indicator Name",
+            "type": "string"
+        },
+        {
+            "description": "Value for the Year and Indicator Name",
+            "name": "values",
+            "structure": [
+                {
+                    "description": "Rename an existing field to conform to a schema name. Only valid where a single field is provided.",
+                    "name": "RENAME",
+                    "structure": [
+                        "field"
+                    ],
+                    "type": "action"
+                },
+                {
+                    "name": "Indicator Value",
+                    "type": "number"
+                }
+            ],
+            "title": "Values",
+            "type": "number"
+        }
+    ],
+    "input_data": [
+        {
+            "checksum": "2990cac3190e2e6b57bd10df83efbd0e5124bdbc8d5e57d031cb0f7c8ff9cf4a54b1b48e6b4a34c053e928fe61923374d507ec0ccbcc1a2d2f36f46cdd2207bb",
+            "columns": [
+                {
+                    "name": "Unnamed: 0",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 1",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 2",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 3",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 4",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 5",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 6",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 7",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 8",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 9",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 10",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 11",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 12",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 13",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 14",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 15",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 16",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 17",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 18",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 19",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 20",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 21",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 22",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 23",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 24",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 25",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 26",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 27",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 28",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 29",
+                    "type": "number"
+                },
+                {
+                    "name": "Unnamed: 30",
+                    "type": "number"
+                }
+            ],
+            "dataframe": {
+                "Unnamed: 0": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 1": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 10": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 11": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 12": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 13": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 14": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 15": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 16": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 17": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 18": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 19": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 2": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 20": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 21": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 22": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 23": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 24": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 25": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 26": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 27": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 28": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 29": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 3": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 30": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 4": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 5": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 6": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 7": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 8": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                },
+                "Unnamed: 9": {
+                    "0": NaN,
+                    "1": NaN,
+                    "2": NaN
+                }
+            },
+            "file": "3ec8f344-abe6-42eb-b97c-4beac2e7362d.xlsx",
+            "id": "3ec8f344-abe6-42eb-b97c-4beac2e7362d",
+            "morph": [
+                {
+                    "description": "Remove all blank columns and rows from a DataFrame.",
+                    "id": "575d5272-1097-4a62-bcef-2e4e91db5de0",
+                    "name": "DEBLANK",
+                    "structure": [],
+                    "title": "De-blank",
+                    "type": "morph"
+                },
+                {
+                    "description": "Remove all duplicated rows from a DataFrame.",
+                    "id": "f0c65e2d-63ae-4f89-98b3-885d4035c3bf",
+                    "name": "DEDUPE",
+                    "structure": [],
+                    "title": "Deduplicate",
+                    "type": "morph"
+                },
+                {
+                    "description": "Rebase the header row at an indexed row and drop rows above that point.",
+                    "id": "c98fd8c0-c5fa-42d5-960e-95c50c4c7d1e",
+                    "name": "REBASE",
+                    "parameters": {
+                        "rows": [
+                            11
+                        ]
+                    },
+                    "structure": [
+                        "rows"
+                    ],
+                    "title": "Rebase",
+                    "type": "morph"
+                },
+                {
+                    "description": "Delete rows provided in a list. They don't have to be contiguous.",
+                    "id": "253db96f-dc52-4c78-8311-2883042a6ad4",
+                    "name": "DELETE",
+                    "parameters": {
+                        "rows": [
+                            193,
+                            194,
+                            195,
+                            196,
+                            197,
+                            198,
+                            199,
+                            200,
+                            201,
+                            202,
+                            203,
+                            204,
+                            205,
+                            206,
+                            207,
+                            208,
+                            209,
+                            210,
+                            211,
+                            212,
+                            213,
+                            214,
+                            215,
+                            216,
+                            217,
+                            218,
+                            219,
+                            220,
+                            221,
+                            222,
+                            223,
+                            224
+                        ]
+                    },
+                    "structure": [
+                        "rows"
+                    ],
+                    "title": "Delete",
+                    "type": "morph"
+                },
+                {
+                    "description": "Rename header columns listed in a dict.",
+                    "id": "24e8bf9e-8f25-4672-9b54-f73be4493705",
+                    "name": "RENAME",
+                    "parameters": {
+                        "column_names": [
+                            "rank",
+                            "Country",
+                            "vide",
+                            "Ad_lit_Fem_rate",
+                            "Reference 1",
+                            "Ad_lit_rat_femrate_malrate",
+                            "Reference 2",
+                            "Yout_lit_Fem_rate",
+                            "Reference 3",
+                            "Yout_lit_rat_femrate_malrate",
+                            "Reference 4",
+                            "Net_prim_enr_fem_rate",
+                            "Reference 5",
+                            "Net_prim_enr_rat_femrate_malrate",
+                            "Reference 6",
+                            "Gross_prim_enr_fem_rat",
+                            "Reference 7",
+                            "Gross_prim_enr_rat_femrate_malrate",
+                            "Reference 8",
+                            "Gross_sec_enr_femrat",
+                            "Reference 9",
+                            "Gross_sec_enr_rat_femrate_malrate",
+                            "Reference 10",
+                            "Gross_tert_enr_female_rat",
+                            "Reference 11",
+                            "Gross_tert_enr_rat_femrate_malrate",
+                            "Reference 12"
+                        ]
+                    },
+                    "structure": [
+                        "column_names"
+                    ],
+                    "title": "Rename",
+                    "type": "morph"
+                },
+                {
+                    "description": "Remove all blank columns and rows from a DataFrame.",
+                    "id": "178ce063-3dbb-4293-b980-5ac16b265f37",
+                    "name": "DEBLANK",
+                    "structure": [],
+                    "title": "De-blank",
+                    "type": "morph"
+                },
+                {
+                    "description": "Convert row-level categories into column categorisations.",
+                    "id": "390c1789-f1e3-43ec-a5c6-bb1836b7b183",
+                    "name": "CATEGORISE",
+                    "parameters": {
+                        "column_names": [
+                            "HDI category"
+                        ],
+                        "rows": [
+                            13,
+                            84,
+                            170
+                        ]
+                    },
+                    "structure": [
+                        "rows",
+                        "column_names"
+                    ],
+                    "title": "Categorise",
+                    "type": "morph"
+                },
+                {
+                    "description": "Transform a DataFrame from wide to long format.",
+                    "id": "f92bbcad-64fd-4a7a-9bae-552a44189330",
+                    "name": "MELT",
+                    "parameters": {
+                        "column_names": [
+                            "Indicator Name",
+                            "Indicator Value"
+                        ],
+                        "columns": [
+                            [
+                                "Reference 8",
+                                "Reference 5",
+                                "Reference 4",
+                                "Country",
+                                "Reference 7",
+                                "Reference 12",
+                                "Reference 6",
+                                "Reference 11",
+                                "HDI category",
+                                "Reference 1",
+                                "Reference 2",
+                                "Reference 3",
+                                "Reference 10",
+                                "Reference 9"
+                            ],
+                            [
+                                "rank",
+                                "Ad_lit_Fem_rate",
+                                "Ad_lit_rat_femrate_malrate",
+                                "Yout_lit_Fem_rate",
+                                "Yout_lit_rat_femrate_malrate",
+                                "Net_prim_enr_fem_rate",
+                                "Net_prim_enr_rat_femrate_malrate",
+                                "Gross_prim_enr_fem_rat",
+                                "Gross_prim_enr_rat_femrate_malrate",
+                                "Gross_sec_enr_femrat",
+                                "Gross_sec_enr_rat_femrate_malrate",
+                                "Gross_tert_enr_female_rat",
+                                "Gross_tert_enr_rat_femrate_malrate"
+                            ]
+                        ]
+                    },
+                    "structure": [
+                        "columns",
+                        "column_names"
+                    ],
+                    "title": "Melt",
+                    "type": "morph"
+                },
+                {
+                    "description": "Transform a DataFrame from wide to long format.",
+                    "id": "4ac04b2e-1518-4004-a221-42fa1523c2b5",
+                    "name": "MELT",
+                    "parameters": {
+                        "column_names": [
+                            "Reference Name",
+                            "Reference"
+                        ],
+                        "columns": [
+                            [
+                                "HDI category",
+                                "Country",
+                                "Indicator Value",
+                                "Indicator Name"
+                            ],
+                            [
+                                "Reference 1",
+                                "Reference 2",
+                                "Reference 3",
+                                "Reference 4",
+                                "Reference 5",
+                                "Reference 6",
+                                "Reference 7",
+                                "Reference 8",
+                                "Reference 9",
+                                "Reference 10",
+                                "Reference 11",
+                                "Reference 12"
+                            ]
+                        ]
+                    },
+                    "structure": [
+                        "columns",
+                        "column_names"
+                    ],
+                    "title": "Melt",
+                    "type": "morph"
+                }
+            ],
+            "original": "HDR 2007-2008 Table 30.xlsx"
+        }
+    ],
+    "name": "hdr__table_30_schema",
+    "output_data": {
+        "checksum": "1612a339313d79412ff2845aae3b7140039edd682f42fd4cfb2c007a8fb857e85e823d569fe3ba8f098955b4ee243b749e31bf0c49e7f84ae856fa43e4997bd1",
+        "columns": [
+            {
+                "name": "country_name",
+                "type": "string"
+            },
+            {
+                "name": "hdi_category",
+                "type": "string"
+            },
+            {
+                "name": "indicator_name",
+                "type": "string"
+            },
+            {
+                "name": "values",
+                "type": "number"
+            }
+        ],
+        "dataframe": {
+            "country_name": {
+                "0": "Iceland",
+                "1": "Norway",
+                "2": "Australia"
+            },
+            "hdi_category": {
+                "0": "HIGH HUMAN DEVELOPMENT",
+                "1": "HIGH HUMAN DEVELOPMENT",
+                "2": "HIGH HUMAN DEVELOPMENT"
+            },
+            "indicator_name": {
+                "0": "rank",
+                "1": "rank",
+                "2": "rank"
+            },
+            "values": {
+                "0": 1,
+                "1": 2,
+                "2": 3
+            }
+        },
+        "file": "output_ea78c5af-1cc4-480c-b8bf-0927636fa734.csv",
+        "id": "output_ea78c5af-1cc4-480c-b8bf-0927636fa734"
+    },
+    "process_date": "2020-05-27",
+    "status": "PROCESS_COMPLETE",
+    "title": "gender inequality in education_HDR 2007-2008 Table 30",
+    "updated": "2020-05-27",
+    "working_data": {
+        "checksum": "8d73bd505904c1f48df9f644da67da63ed1fdd2f5a903dd68974759980fdb071358b81da94ac4a2237b96ce44a2a3a14b1d0d7012f7f394531b1fea90d6f18a7",
+        "columns": [
+            {
+                "name": "HDI category",
+                "type": "string"
+            },
+            {
+                "name": "Country",
+                "type": "string"
+            },
+            {
+                "name": "Indicator Value",
+                "type": "number"
+            },
+            {
+                "name": "Indicator Name",
+                "type": "string"
+            },
+            {
+                "name": "Reference Name",
+                "type": "string"
+            },
+            {
+                "name": "Reference",
+                "type": "number"
+            }
+        ],
+        "dataframe": {
+            "Country": {
+                "0": "Iceland",
+                "1": "Norway",
+                "2": "Australia"
+            },
+            "HDI category": {
+                "0": "HIGH HUMAN DEVELOPMENT",
+                "1": "HIGH HUMAN DEVELOPMENT",
+                "2": "HIGH HUMAN DEVELOPMENT"
+            },
+            "Indicator Name": {
+                "0": "rank",
+                "1": "rank",
+                "2": "rank"
+            },
+            "Indicator Value": {
+                "0": 1,
+                "1": 2,
+                "2": 3
+            },
+            "Reference": {
+                "0": NaN,
+                "1": NaN,
+                "2": NaN
+            },
+            "Reference Name": {
+                "0": "Reference 1",
+                "1": "Reference 1",
+                "2": "Reference 1"
+            }
+        },
+        "file": "working_385c2749-521d-4e7a-8b97-649860f82108.xlsx",
+        "id": "working_385c2749-521d-4e7a-8b97-649860f82108"
+    }
+}
